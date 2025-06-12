@@ -51,7 +51,7 @@ This project analyzes e-commerce sales data and provides a comprehensive overvie
 
 ## 📎 Download the Dashboard
 
-➡️ **[Click here to download the .pbix file]([https://drive.google.com/your-pbix-link](https://drive.google.com/file/d/1LpkBiCrcyYbvg3Ci7R5Ea17Hmr43MooV/view?usp=sharing))**
+➡️ **[Click here to download the .pbix file]((https://drive.google.com/file/d/1LpkBiCrcyYbvg3Ci7R5Ea17Hmr43MooV/view?usp=sharing))**
 
 ---
 
